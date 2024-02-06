@@ -18,12 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Chezka Quinola
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
+I adhered to the Allegheny College Honor Code while completing this project.
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -32,43 +31,29 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+There are so many majors to choose from, but how od we choose which track to follow?
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: The Registrar on Tracks
+- **Host**: Chezka Quinola
+- **Guest**: (Someone on the) Registrar
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**: Mention all the tracks available
+- **Objective Two**: Discuss some tracks more in depth
+- **Objective Three**: Benefits of being on a specific track
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: What is the difference between a major, minor, and track?
+- **Question Two**: What are some popular tracks people take?
+- **Question Three**: Is a track necessary?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
-
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: This will open up the interview for discussion
+- **Justification for Question Two**: This will let us know the most popular ones and further discuss them
+- **Justification for Question Three**: This will allow us to evaluate the whole episode and conclude
 
 ## 🎉 Show Description
 
@@ -78,25 +63,10 @@ episode, ensuring that the description is both engaging and informative.
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+I want people to be open to more than just majors and minors, especially those looking into graduate school. People usually take the easiest route and also don't do much research, so I hope this episode allows them to look into tracks and concentrations.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
+- **Reference One**: <https://academia.stackexchange.com/questions/31137/what-is-the-difference-between-a-concentration-and-a-track-within-the-major>
+- **Reference Two**: <https://www.sulross.edu/about/what-is-a-major-minor-or-concentration/>
 - **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
