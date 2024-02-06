@@ -57,9 +57,12 @@ There are so many majors to choose from, but how od we choose which track to fol
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
 
+The show will include a guest from the Registrar’s Office who will speak about the different tracks and concentrations a student can take (either specific to Allegheny or broadly). We will discuss what tracks are and how they differ from majors and minors. Some people may not want to do a track and that’s completely fine! And some people may not know what a track even is. But that’s what this episode is about! All about finding out different tracks and what they are.
+
+As we go on in the episode, we’ll also dive into specific tracks. Popular ones include pre-med/pre-health, pre-law, etc. We will discuss the requirements for this track and what it’ll help with post college. We will also talk briefly about the difficulties when taking these tracks.
+
+Then, we will discuss the benefits on being on a track specific course in college. This will help aspiring students finally decide if they want to be track specific or not. We might also discuss the different pros and cons of being in a track as well. Or the best majors to follow for a track you’re thinking of.
 
 ## 📢 Call to Action
 
