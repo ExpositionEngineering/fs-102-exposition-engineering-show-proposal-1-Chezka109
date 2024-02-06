@@ -4,17 +4,17 @@
 
 <!---toc start-->
 
-- * [Show Proposal One](#show-proposal-one)
-- * [✨ Table of Contents](#-table-of-contents)
-- * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
-- * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
-- * [🏁 One Sentence Pitch](#-one-sentence-pitch)
-- * [🔬 Show Details](#-show-details)
-- * [📝 Show Objectives](#-show-objectives)
-- * [📚 Sample Questions](#-sample-questions)
-- * [🎉 Show Description](#-show-description)
-- * [📢 Call to Action](#-call-to-action)
-- * [🦜 References](#-references)
+  * [Show Proposal One](#show-proposal-one)
+  * [✨ Table of Contents](#-table-of-contents)
+  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+  * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
+  * [🏁 One Sentence Pitch](#-one-sentence-pitch)
+  * [🔬 Show Details](#-show-details)
+  * [📝 Show Objectives](#-show-objectives)
+  * [📚 Sample Questions](#-sample-questions)
+  * [🎉 Show Description](#-show-description)
+  * [📢 Call to Action](#-call-to-action)
+  * [🦜 References](#-references)
 
 <!---toc end-->
 
@@ -64,7 +64,7 @@ Then, we will discuss the benefits on being on a track specific course in colleg
 
 ## 📢 Call to Action
 
-I want people to be open to more than just majors and minors, especially those looking into graduate school. People usually take the easiest route and also don't do much research, so I hope this episode allows them to look into tracks and concentrations.
+- **Call to Action**: I want people to be open to more than just majors and minors, especially those looking into graduate school. People usually take the easiest route and also don't do much research, so I hope this episode allows them to look into tracks and concentrations.
 
 ## 🦜 References
 
