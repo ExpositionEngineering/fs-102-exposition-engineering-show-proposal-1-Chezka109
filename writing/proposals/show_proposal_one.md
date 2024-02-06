@@ -69,4 +69,4 @@ I want people to be open to more than just majors and minors, especially those l
 
 - **Reference One**: <https://academia.stackexchange.com/questions/31137/what-is-the-difference-between-a-concentration-and-a-track-within-the-major>
 - **Reference Two**: <https://www.sulross.edu/about/what-is-a-major-minor-or-concentration/>
-- **Reference Three**:
+- **Reference Three**: <https://shorelight.com/student-stories/what-is-a-concentration-at-an-american-college/#:~:text=Declaring%20a%20concentration%20can%20help,particular%20knowledge%20for%20specific%20jobs.>
